@@ -6,36 +6,82 @@
     "email": "koloskimatt@gmail.com",
     "phone": "",
     "website": "https://mattkoloski.github.io",
-    "summary": "I am a software engineer at Microsoft",
-    "location": { "address": "", "postalCode": "", "city": "Redmond", "countryCode": "USA", "region": "Washington" },
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Redmond",
+      "countryCode": "USA",
+      "region": "Washington"
+    },
     "profiles": [
-      { "network": "github", "username": "mattkoloski", "url": "http://github.com/mattkoloski" },
-      { "network": "linkedin", "username": "mattkoloski", "url": "http://linkedin.com/in/matthewkoloski" }
+      {
+        "network": "github",
+        "username": "mattkoloski",
+        "url": "http://github.com/mattkoloski"
+      },
+      {
+        "network": "linkedin",
+        "username": "mattkoloski",
+        "url": "http://linkedin.com/in/matthewkoloski"
+      }
     ]
   },
   "interests": [
-    
-    { "name": "Software Engineering" },
-    { "name": "Embedded Systems" },
-    { "name": "AR/VR" },
-    { "name": "Machine Learning" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    {
+      "name": "Software Engineering"
+    },
+    {
+      "name": "Embedded Systems"
+    },
+    {
+      "name": "AR/VR"
+    },
+    {
+      "name": "Machine Learning"
+    },
+    {
+      "name": "Robotics"
+    },
+    {
+      "name": "3D Graphics"
+    }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Python", "Rust" ]
+      "keywords": [
+        "C",
+        "C++",
+        "Python",
+        "Rust"
+      ]
     },
     {
       "name": "Software Management Tools",
-      "keywords": [ "Git", "DevOps", "CI/CD", "JIRA", "CMake", "Azure", "Windows", "Linux" ]
+      "keywords": [
+        "Git",
+        "DevOps",
+        "CI/CD",
+        "JIRA",
+        "CMake",
+        "Azure",
+        "Windows",
+        "Linux"
+      ]
     },
-    
     {
       "name": "Lab Tools",
-      "keywords": [ "High-speed oscilloscope", "JTAG debugger", "logic analyzer", "protocol analyzer", "thermal chamber", "multimeter", "soldering tools" ]
-    },
+      "keywords": [
+        "High-speed oscilloscope",
+        "JTAG debugger",
+        "logic analyzer",
+        "protocol analyzer",
+        "thermal chamber",
+        "multimeter",
+        "soldering tools"
+      ]
+    }
   ],
   "education": [
     {
@@ -44,8 +90,7 @@
       "studyType": "B.S.",
       "startDate": "2010",
       "endDate": "2014",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
@@ -56,8 +101,7 @@
       "startDate": "2019-07",
       "endDate": "Present",
       "summary": "Software Engineer on Mixed Reality display firmware team",
-      "highlights": [
-      ]
+      "highlights": []
     },
     {
       "company": "Boeing",
@@ -66,8 +110,7 @@
       "startDate": "2018-08",
       "endDate": "2019-07",
       "summary": "",
-      "highlights": [
-      ]
+      "highlights": []
     },
     {
       "company": "Micron Technology, Inc.",
@@ -76,8 +119,7 @@
       "startDate": "2014-06",
       "endDate": "2018-08",
       "summary": "",
-      "highlights": [
-      ]
+      "highlights": []
     },
     {
       "company": "Honeywell International, Inc.",
@@ -86,9 +128,8 @@
       "startDate": "2013-05",
       "endDate": "2014-05",
       "summary": "",
-      "highlights": [
-      ]
-    },
+      "highlights": []
+    }
   ],
   "references": [
     {
