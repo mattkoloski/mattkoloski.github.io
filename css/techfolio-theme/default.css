@@ -8,12 +8,12 @@
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--bs-blue);
   --bs-body-color: var(--bs-gray);
-  --bs-body-bg: var(--bs-dark);
+  --bs-body-bg: var(--bs-black);
   --tf-pill-bg: var(--bs-gray);
   --tf-icon-fill: var(--bs-gray);
-  --tf-page-bg-color: var(--bs-dark);
-  --tf-footer-bg-color: var(--bs-dark);
-  --tf-projects-bg-color: var(--bs-dark);
+  --tf-page-bg-color: var(--bs-black);
+  --tf-footer-bg-color: var(--bs-black);
+  --tf-projects-bg-color: var(--bs-black);
 }
 
 /* Format social media icons */
@@ -31,6 +31,6 @@ a {
 
 /* Simplify the styling of the bottom of Essay cards. */
 .card-footer {
-  background-color: var(--bs-dark);
+  background-color: var(--bs-black);
   border-top: none;
 }
