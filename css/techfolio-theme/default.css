@@ -7,9 +7,11 @@
 :root {
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--bs-blue);
+  --bs-body-color: var(--bs-green);
+  --bs-body-bg: var(--bs-black);
   --tf-pill-bg: var(--bs-gray);
   --tf-icon-fill: var(--bs-gray);
-  --tf-page-bg-color: var(--bs-dark);
+  --tf-page-bg-color: var(--bs-black);
   --tf-footer-bg-color: var(--bs-gray-200);
   --tf-projects-bg-color: var(--bs-gray-100);
 }
