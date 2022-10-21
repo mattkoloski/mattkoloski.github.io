@@ -1,0 +1,139 @@
+{
+  "basics": {
+    "name": "Matt Koloski",
+    "label": "Software Engineer at Microsoft",
+    "picture": "https://github.com/mattkoloski.png",
+    "email": "koloskimatt@gmail.com",
+    "phone": "",
+    "website": "https://mattkoloski.github.io",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Redmond",
+      "countryCode": "USA",
+      "region": "Washington"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "mattkoloski",
+        "url": "http://github.com/mattkoloski"
+      },
+      {
+        "network": "linkedin",
+        "username": "mattkoloski",
+        "url": "http://linkedin.com/in/matthewkoloski"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "Software Engineering"
+    },
+    {
+      "name": "Embedded Systems"
+    },
+    {
+      "name": "AR/VR"
+    },
+    {
+      "name": "Machine Learning"
+    },
+    {
+      "name": "Robotics"
+    },
+    {
+      "name": "3D Graphics"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [
+        "C",
+        "C++",
+        "Python",
+        "Rust"
+      ]
+    },
+    {
+      "name": "Software Management Tools",
+      "keywords": [
+        "Git",
+        "DevOps",
+        "CI/CD",
+        "JIRA",
+        "CMake",
+        "Azure",
+        "Windows",
+        "Linux"
+      ]
+    },
+    {
+      "name": "Lab Tools",
+      "keywords": [
+        "High-speed oscilloscope",
+        "JTAG debugger",
+        "logic analyzer",
+        "protocol analyzer",
+        "thermal chamber",
+        "multimeter",
+        "soldering tools"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Minnesota, Duluth, MN",
+      "area": "Electrical and Computer Engineeering",
+      "studyType": "B.S.",
+      "startDate": "2010",
+      "endDate": "2014",
+      "courses": []
+    }
+  ],
+  "work": [
+    {
+      "company": "Microsoft",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2019-07",
+      "endDate": "Present",
+      "summary": "Software Engineer on Mixed Reality display firmware team",
+      "highlights": []
+    },
+    {
+      "company": "Boeing",
+      "position": "Electronics Engineer",
+      "website": "",
+      "startDate": "2018-08",
+      "endDate": "2019-07",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Micron Technology, Inc.",
+      "position": "Design Engineer",
+      "website": "",
+      "startDate": "2014-06",
+      "endDate": "2018-08",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Honeywell International, Inc.",
+      "position": "Embedded Software Engineering Intern",
+      "website": "",
+      "startDate": "2013-05",
+      "endDate": "2014-05",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
